@@ -18,5 +18,5 @@
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="android" width="40" height="40"/> </a> 
 </p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nehasingh-001&show_icons=true&locale=en&layout=compact" alt="nehasingh-001" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=neha-oo1&show_icons=true&locale=en&layout=compact" alt="nehasingh-001" /></p>
 
